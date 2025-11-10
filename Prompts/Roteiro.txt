@@ -1,0 +1,32 @@
+Agindo como roteirita profissional, você irá me ajudar a criar um roteiro de podcast sobre tecnologia, com foco em Inteligência Artificial, intitulado "Entre Dados e Delírios". O primeiro episódio vai se chamar "O que acontece quando as máquinas começam a pensar", tem como foco pessoas interessadas no mundo da tecnologia, porém que queiram ouvir sobre isso de uma forma mais bem humorada e leve, mesclando com histórias e acontecimentos do dia a dia, assim como é feio pelo podcast Não Inviabilize. 
+
+O formato do roteiro deve ser:
+
+[INTRODUÇÃO]
+[TEXTO 1]
+[TEXTO 2]
+[TEXTO 3]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+No bloco [INTRODUÇÃO] substitua por uma introdução animada, falando o nome do Canal e da sua apresentadora, a Tai e o título do episódio.
+
+No bloco [TEXTO 1] substitua por um fato sobre inteligência artificial, levando em consideração o título do episódio do podcast "O que acontece quando as máquinas começam a pensar"
+
+no bloco [TEXTO 2] substitua por uma história ou um exemplo do dia a dia que faça uma relação com o fato gerados anteriormente.
+
+no bloco [TEXTO 3] substitua por uma reflexão bem humorada sobre os assuntos abordados nos blocos anteriores.
+
+no bloco [FINALIZAÇÃO] substitua por uma despedida informal e despreocupada, algo como "esse foi o episódio de hoje..."
+
+Use termos de fácil aplicação, utilizando termos em inglês apenas quando for extremamente necessário.
+
+O podcast vai ser apresentado somente por uma pessoa, chamada Tai.
+
+O podcast será curto
+
+{REGRAS NEGATIVAS}
+
+Não use muitos termos técnicos
+Não ultrapassar 10 minutos de duração
