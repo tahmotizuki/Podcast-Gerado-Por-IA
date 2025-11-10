@@ -4,6 +4,9 @@ Projeto desenvolvido para o **Bootcamp Santander - Universia - Fundamentos de IA
 
 ---
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/39ef142f-530c-4750-8a66-352178d42ea7" />
+
+
 ## 🧠 Introdução
 
 Este projeto demonstra que é possível **criar um podcast completo utilizando apenas ferramentas de Inteligência Artificial Generativa**.
